@@ -1,4 +1,6 @@
+https://github.com/SimulaVR/
 [[file:./doc/SimulaLogoHorizontal.png]]
+
 
 [[https://simulavr.com][Simula]] is a VR window manager for Linux that runs on top of [[https://godotengine.org/][Godot]]. It takes less than 1 minute to install.
 
